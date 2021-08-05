@@ -19,21 +19,7 @@
 
 ### Coding ✈
 
-<img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
-
-<img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/>
-
-<img alt="JS" src="https://img.icons8.com/color/50/000000/javascript--v2.png"/>
-
-<img alt="Vue" src="https://img.icons8.com/color/48/000000/vue-js.png"/>
-
- <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/>
-
-<img alt="React" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/>
-
-<img alt="Flutter" src="https://img.icons8.com/color/48/000000/flutter.png"/>
-
-<img alt="Wordpress" src="https://img.icons8.com/material-outlined/48/000000/wordpress--v2.png"/>
+<img alt="HTML" src="https://img.icons8.com/color/48/000000/html-5--v1.png"/> <img alt="CSS" src="https://img.icons8.com/color/48/000000/css3.png"/> <img alt="JS" src="https://img.icons8.com/color/50/000000/javascript--v2.png"/> <img alt="Vue" src="https://img.icons8.com/color/48/000000/vue-js.png"/> <img alt="Git" src="https://img.icons8.com/color/48/000000/git.png"/> <img alt="React" src="https://img.icons8.com/ultraviolet/40/000000/react--v1.png"/> <img alt="Flutter" src="https://img.icons8.com/color/48/000000/flutter.png"/> <img alt="Wordpress" src="https://img.icons8.com/material-outlined/48/000000/wordpress--v2.png"/>
 
 
 ---
