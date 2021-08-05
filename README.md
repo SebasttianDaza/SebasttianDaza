@@ -34,6 +34,7 @@
 
 ---
 
+- Do you want to know me more see my presentation sheet: [Notion](https://organic-icon-9bf.notion.site/Sebasti-n-Daza-156eebed43bb450692a9ab598fb11a55)
 
 <!-- Links -->
 [website]: https://emprendeyourlifestyle.com/
