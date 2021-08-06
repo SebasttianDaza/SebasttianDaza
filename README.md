@@ -14,6 +14,8 @@
     <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/tiktok.svg" alt="SebasttianDaza" height="28px" width="28px" />
   </a> <br>
 
+  #### Follow me! 
+
 
 
 
