@@ -20,8 +20,6 @@
     <a href="https://co.pinterest.com/SebasttianDaza/_created/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/pinterest.svg" height="30" width="40" /></a>
     </p>
  </h4>
-
- <br>
  <h4>
   <p>
     <a href="https://www.tiktok.com/@emprendeyourlifestyle?">
@@ -90,14 +88,23 @@
 ### Github Stats
 (Thank you <a target="_blank" href="https://github.com/anuraghazra/github-readme-stats">Anuraghazra</a>)
 
-<table>
-  <tr>
-    <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasttiandaza&theme=radical&card_width=450em)](https://github.com/sebasttiandaza/sebasttiandaza/github-readme-stats"/></td>
-    <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebasttiandaza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
-  </tr>
-</table>
+<tr>
+  <td valign="top"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sebasttiandaza&theme=radical&card_width=450em)](https://github.com/sebasttiandaza/sebasttiandaza/github-readme-stats"/></td>
+</tr>
+<tr>
+  <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebasttiandaza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
+</tr>
 
 
+
+### __[Student Ambassador](https://www.instagram.com/codigobits/)__
+
+  <p>
+    <img src="https://img.shields.io/badge/Student-Ambassador-E34F26?style=for-the-badge&logo=student-ambassador&logoColor=white">
+  </p>
+  <p>
+    <img src="https://firebasestorage.googleapis.com/v0/b/emprendeyourlifestyle.appspot.com/o/Proyectos%2F13.png?alt=media&token=eb94c64d-e3b6-4752-b8bd-a019772ef8be" style="border-radius: 5px; width: 300px; height:300px;">
+  </p>
 
 ---
 
