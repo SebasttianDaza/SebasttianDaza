@@ -78,7 +78,7 @@
 
 [<img src="https://media.giphy.com/media/87hciB4w9Di5zFMJcj/giphy.gif">][website]
 
-### Web Developer 💻 Young and  Enterprising 🇨🇴
+### Web Developer 💻 Young and  Enterprising 🇨🇴 💯
 
 - I am currently working as a freelance and independent. 😎
 - 👊 I am learning more about web development, digital marketing and web designs.
