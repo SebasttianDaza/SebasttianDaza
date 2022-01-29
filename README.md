@@ -2,7 +2,7 @@
 
 ~~~
  { “name” : “Juan Sebastian Daza”,
-   “role” : “Frontend Dev”,
+   “role” : “Frontend Dev and Content creator”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/sebasttiandaza/", 
