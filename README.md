@@ -2,7 +2,7 @@
 
 ~~~
  { “name” : “Juan Sebastian Daza”,
-   “role” : “Frontend Dev and Content creator”,
+   “role” : “FullStack Engineer and Content creator”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/sebasttiandaza/", 
@@ -78,9 +78,9 @@
 
 [<img src="https://media.giphy.com/media/87hciB4w9Di5zFMJcj/giphy.gif">][website]
 
-### Web Developer 💻 Young and  Enterprising 🇨🇴
+### Web Developer 💻 Young  🇨🇴
 
-- I am currently working as a freelance and independent. 😎
+- I am currently working as FullStack Engineer at El Tiempo Casa Editorial. 😎
 - 👊 I am learning more about web development, digital marketing and web designs.
 - 👀 I like meeting people, having co-workers, contributing to projects, write me on [Twitter](https://twitter.com/SebasttianDaza)
 - ❤ I love web development, fitness life and video games.
