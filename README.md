@@ -2,17 +2,16 @@
 
 ~~~
  { “name” : “Juan Sebastian Daza”,
-   “role” : “FullStack Engineer and Content creator”,
+   “role” : “Software Engineer and Content creator”,
    “data” : 
      { 
       "Linkedin" : "https://www.linkedin.com/in/sebasttiandaza/", 
-      "Resume"   : "https://emprendeyourlifestyle.com/",
       "IG"       : "https://www.instagram.com/sebasttian_daza/"
      }
  }
 ~~~
 
-### Don't forget to follow me on my different social networks 👌👌
+### My social networks 👌👌
 
  <br>
  <h4>
@@ -38,50 +37,36 @@
  </h4>
 
 
-### __Languages Principals__ 🖥️ 🖥️ 🖥️
+### __Technologies (Languages and Tools)__ 🖥️ 🖥️ 🖥️
 <br>
 <p>
   <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black">
   <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white">
+  <img src="https://img.shields.io/badge/NodeJS-19D3D3?style=for-the-badge&logo=nodejs&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white">
+  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+</p>
+<br>
+<p>
+  <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
+  <img src="https://img.shields.io/badge/Docker-430098?style=for-the-badge&logo=docker&logoColor=white">
 </p>
 
-### __Frontend Development__ 🖥️ 🖥️ 🖥️
+### __Frameworks and Tools__ 🖥️ 🖥️ 🖥️
  <p>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white">
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white">
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB">
+  <img src="https://img.shields.io/badge/connect-%2300843e.svg?style=for-the-badge&logo=symfony&logoColor=white" >
  </p>
 
-### __Backend Development__ 🏴🏴🏴
-  <p>
-    <img src="https://img.shields.io/badge/NodeJS-19D3D3?style=for-the-badge&logo=nodejs&logoColor=white">
-    <img src="https://img.shields.io/badge/MongoDB-white?style=for-the-badge&logo=mongodb&logoColor=4EA94B">
-    <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white">
-    
-  </p>
 
-### __Tools and Technologies__
+[<img src="https://media.giphy.com/media/87hciB4w9Di5zFMJcj/giphy.gif">](website)
 
-  <p>
-    <img src="https://img.shields.io/badge/Git-E34F26?style=for-the-badge&logo=git&logoColor=white">
-    <img src="https://img.shields.io/badge/GitHub-E34F26?style=for-the-badge&logo=github&logoColor=white">
-    <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black">
-    <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white">
-    <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white">
-    <img src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-430098?style=for-the-badge&logo=docker&logoColor=white">
-    <img src="https://img.shields.io/badge/VSCode-005C84?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+### Software Engineer
 
-  </p>
- 
-
-<br>
-
-[<img src="https://media.giphy.com/media/87hciB4w9Di5zFMJcj/giphy.gif">][website]
-
-### Web Developer 💻 Young  🇨🇴
-
-- I am currently working as FullStack Engineer at El Tiempo Casa Editorial. 😎
-- 👊 I am learning more about web development, digital marketing and web designs.
+- I'm currently working as Software Engineer at El Tiempo Casa Editorial. 😎
 - 👀 I like meeting people, having co-workers, contributing to projects, write me on [Twitter](https://twitter.com/SebasttianDaza)
 - ❤ I love web development, fitness life and video games.
 
@@ -94,21 +79,3 @@
 <tr>
   <td valign="top"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=sebasttiandaza&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true&theme=radical&hide_stars=false" /></td>
 </tr>
-
-
-
-### __[Student Ambassador](https://www.instagram.com/codigobits/)__
-
-  <p>
-    <img src="https://img.shields.io/badge/Student-Ambassador-E34F26?style=for-the-badge&logo=student-ambassador&logoColor=white">
-  </p>
-  <p>
-    <img src="https://firebasestorage.googleapis.com/v0/b/emprendeyourlifestyle.appspot.com/o/Proyectos%2F13.png?alt=media&token=eb94c64d-e3b6-4752-b8bd-a019772ef8be" style="border-radius: 5px; width: 300px; height:300px;">
-  </p>
-
----
-
-- Do you want to know me more see my presentation sheet: [Notion](https://sebasttian.notion.site/Sebasti-n-Daza-156eebed43bb450692a9ab598fb11a55)
-
-<!-- Links -->
-[website]: https://emprendeyourlifestyle.com/
