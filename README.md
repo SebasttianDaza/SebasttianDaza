@@ -1,4 +1,4 @@
-## Hi, I'm [Sebastian Daza][website] 😎😎
+## Hi there, I'm Sebastian Daza 😎😎
 
 ~~~
  { “name” : “Juan Sebastian Daza”,
